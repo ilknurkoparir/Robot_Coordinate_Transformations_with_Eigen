@@ -7,8 +7,6 @@
 
 ## 📌 Problem Tanımı
 
-📌 Problem Tanımı
-
 Laboratuvar ortamında elde edilen sensör verileri, sensörün kendi koordinat sistemine göre tanımlıdır ve gerçek dünya koordinat sistemindeki konumları doğrudan bilinmemektedir. Bu problemi çözmek için çeşitli dönüşüm fonksiyonları kullanılarak veriler ortak bir referans sistemine dönüştürülür. Dönüşüm sonrasında tüm nokta bulutları aynı dünya koordinat sistemine ifade edildiğinden, farklı zamanlarda elde edilen veriler birleştirilerek ortamın tutarlı bir 3B haritası oluşturulabilir.
 
 ---
